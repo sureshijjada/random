@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.card {
+  height: 100vh;
+  padding: 35px;
+  background-color: blanchedalmond;
+  text-align: center;
+}
+.heading {
+  font-size: 20px;
+  color: red;
+}
+.para {
+  font-size: 20px;
+  color: blue;
+}
